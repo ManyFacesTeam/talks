@@ -55,21 +55,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ::: {layout-nrow=1}
 
-![](../images/frl_london_avg/f_african.jpg)  
+![](../images/frl_london_avg/f_african.jpg){fig.alt="Composite young adult Black female face"}  
 
-![](../images/frl_london_avg/f_easian.jpg)  
+![](../images/frl_london_avg/f_easian.jpg){fig.alt="Composite young adult east asian female face"}   
 
-![](../images/frl_london_avg/f_wasian.jpg)  
+![](../images/frl_london_avg/f_wasian.jpg){fig.alt="Composite young adult west asian female face"}   
 
-![](../images/frl_london_avg/f_white.jpg)  
+![](../images/frl_london_avg/f_white.jpg){fig.alt="Composite young adult white female face"}   
 
-![](../images/frl_london_avg/m_african.jpg)  
+![](../images/frl_london_avg/m_african.jpg){fig.alt="Composite young adult Black male face"}   
 
-![](../images/frl_london_avg/m_easian.jpg)  
+![](../images/frl_london_avg/m_easian.jpg){fig.alt="Composite young adult east asian male face"}  
 
-![](../images/frl_london_avg/m_wasian.jpg)  
+![](../images/frl_london_avg/m_wasian.jpg){fig.alt="Composite young adult west asian male face"}  
 
-![](../images/frl_london_avg/m_white.jpg)  
+![](../images/frl_london_avg/m_white.jpg){fig.alt="Composite young adult white male face"}  
 
 
 :::
