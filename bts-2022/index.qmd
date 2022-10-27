@@ -20,8 +20,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Founding
 
-* 143 people responded to the [Interest Form](https://docs.google.com/forms/d/1d8_YLegXCQSxsRIcFlS6JcKcXCOPXKOLwjEhFJdr1F8/edit)
-* 104 Researchers contributed to the initial [Brainstorming Doc](https://docs.google.com/document/d/1X6b3am7zwDYXT2-TUR-a85-xG-cdrE8_vz9GICbwAl0/edit#heading=h.apt0qjxvybts)
+[![](../images/first_tweet.png){fig.alt="Tweet screenshot: Big Team Science is growing. I've loved my involvement with @PsySciAcc and think teams like this and @Many_Babies, @BrRepInitiative, @ManyPrimates etc. are the future of science. So I've been wondering if it's time to start ManyFaces."}](https://twitter.com/LisaDeBruine/status/1486807497608466435)
+
+* 143 responses to the [Interest Form](https://docs.google.com/forms/d/1d8_YLegXCQSxsRIcFlS6JcKcXCOPXKOLwjEhFJdr1F8/edit) 
+* 104 contributors to the [Brainstorming Doc](https://docs.google.com/document/d/1X6b3am7zwDYXT2-TUR-a85-xG-cdrE8_vz9GICbwAl0/edit#heading=h.apt0qjxvybts)
+
+## Challenges
+
+![Facial expressions of emotion: Stimuli and tests (FEEST) (Young et al, 2002)](../images/ekman60.png){fig.alt="Photographs of facial expressions used in the Ekman 60 Faces Test. The leftmost column shows practice (P) stimuli. Columns in the main matrix show the 6 female (F) and 4 male (M) models used in the test, numbered to reflect their position in the Ekman and Friesen (1976) Pictures of Facial Affect series (F2 = second female model in the series, etc.). Rows show facial expressions of anger (A), disgust (D), fear (F), happiness (H), sadness (S), and surprise (U)."}
 
 
 ## Values {.smaller}
@@ -61,18 +67,24 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Working Groups
 
+- Any member can propose a Working Group
+- Image Collation: create a database of face images and related info
+- Stimuli: Develop stimulus protocols
+- Reproducible Stimuli: develop [reproducible methods for creating face stimuli](https://debruine.github.io/reprostim/)
 
 
-## Training
+## Topics
 
+- Ethics
+- Mixed Models
+- Social Perception/Attractiveness
 
 ## Join ManyFaces
 
-::: {.center}
-![](../images/manyfaces.png){fig.alt="Three 3D faces rendered in white like marble inside a hexagon with rainbow-coloured sides"}http://localhost:4793/images/manyfaces.png
-
 [tinyurl.com/ManyFaces-interest](https://tinyurl.com/ManyFaces-interest)
-:::
+
+![](../images/manyfaces_banner.png){fig.alt="Six rainbow-coloured 3D faces"}
+
 
 
 
