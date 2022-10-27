@@ -1,0 +1,10 @@
+---
+title: "Talks"
+format: 
+  html:
+    css: style.scss
+---
+
+* [Big Team Science Conference](bts-2022/) 2022-10-27
+
+![](images/manyfaces.png){fig.alt="Three 3D faces rendered in white like marble inside a hexagon with rainbow-coloured sides"}

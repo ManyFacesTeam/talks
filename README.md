@@ -1,14 +1,8 @@
 # talks
 
-Talk slides for talks by Lisa DeBruine.
+Talk slides for talks by ManyFaces members.
 
-* [UofG Open Research Workshop](https://debruine.github.io/talks/UofG-open-res/) 2022-10-25
-
-
-## Instructions
-
-- View the slides online at <https://debruine.github.io/talks/>
-- To reproduce, render `index.qmd` with [quarto](https://quarto.org/docs/tools/rstudio.html)
+* [Big Team Science Conference](https://ManyFacesTeam.github.io/talks/bts-2022/) 2022-10-27
 
 ## License
 
