@@ -1,0 +1,78 @@
+---
+title: "ManyFaces"
+subtitle: "[https://debruine.github.io/talks/bts-manyfaces/](https://debruine.github.io/talks/bts-manyfaces/)"
+title-slide-attributes:
+    data-background-image: images/manyfaces.png
+    data-background-size: contain
+    data-background-opacity: "0.25"
+author: "Thora Bjornsdottir, Lisa DeBruine, Vít Třebický"
+format: 
+  revealjs:
+    logo: images/manyfaces.png
+    theme: [default, ../style.scss]
+    transition: none
+    transition-speed: fast
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Founding
+
+* 143 people responded to the [Interest Form](https://docs.google.com/forms/d/1d8_YLegXCQSxsRIcFlS6JcKcXCOPXKOLwjEhFJdr1F8/edit)
+* 104 Researchers contributed to the initial [Brainstorming Doc](https://docs.google.com/document/d/1X6b3am7zwDYXT2-TUR-a85-xG-cdrE8_vz9GICbwAl0/edit#heading=h.apt0qjxvybts)
+
+
+## Values {.smaller}
+
+### Ethical Research
+
+- Personal data protection
+- Avoiding and speaking out against inappropriate use of AI/face recognition
+    
+### Diversity and Inclusion
+
+- Diversity of region, career stage, discipline, methodology, gender, nationality, etc.
+- Don’t just make "the rich get richer"
+
+### Transparency
+
+- Resources and outputs shared as openly as ethics allows
+- While not every member can be involved in every decision, the process of decision making should be available to all
+
+## Goals
+
+* Improve methods for image collection, stimulus creation, data collection, and analysis
+* Diversify stimulus images, participants, and researchers
+* Crowdsource image and data collection
+
+## Organisation
+
+* Non-hierarchical structure
+* Still figuring out:
+    - membership models
+    - membership database
+    - website  and communication platforms
+* Links
+    - Twitter [@ManyFacesTeam](https://twitter.com/ManyFacesTeam)
+    - GitHub [ManyFacesTeam](https://github.com/ManyFacesTeam)
+
+
+## Working Groups
+
+
+
+## Training
+
+
+## Join ManyFaces
+
+::: {.center}
+![](images/manyfaces.png){fig.alt="Three 3D faces rendered in white like marble inside a hexagon with rainbow-coloured sides"}
+
+[tinyurl.com/ManyFaces-interest](https://tinyurl.com/ManyFaces-interest)
+:::
+
+
+
