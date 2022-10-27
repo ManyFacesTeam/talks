@@ -91,7 +91,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Any member can propose a Working Group
 - [Meta-Databases](manyfaces-meta-database.pdf): create a database of face images and related info
-- Stimuli: Develop stimulus protocols
+- [Stimuli Collection](manyfaces-stimuli-collection.pdf): Develop stimulus protocols
 - Reproducible Stimuli: develop [reproducible methods for creating face stimuli](https://debruine.github.io/reprostim/)
 
 
@@ -107,6 +107,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](../images/manyfaces_banner.png){fig.alt="Six rainbow-coloured 3D faces"}
 
+## Working Group Explanations
 
+* [Meta-Databases](manyfaces-meta-database.pdf) led by Thora Bjornsdottir
 
-
+* [Stimuli Collection](manyfaces-stimuli-collection.pdf) led by Vít Třebický
