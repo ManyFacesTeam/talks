@@ -9,7 +9,7 @@ author: "Thora Bjornsdottir, Lisa DeBruine, Vít Třebický"
 format: 
   revealjs:
     logo: ../images/manyfaces.png
-    theme: [default, ../style.scss]
+    theme: [dark, ../style.scss]
     transition: none
     transition-speed: fast
 ---
@@ -53,22 +53,44 @@ knitr::opts_chunk$set(echo = TRUE)
 * Diversify stimulus images, participants, and researchers
 * Crowdsource image and data collection
 
+::: {layout-nrow=1}
+
+![](../images/frl_london_avg/f_african.jpg)  
+
+![](../images/frl_london_avg/f_easian.jpg)  
+
+![](../images/frl_london_avg/f_wasian.jpg)  
+
+![](../images/frl_london_avg/f_white.jpg)  
+
+![](../images/frl_london_avg/m_african.jpg)  
+
+![](../images/frl_london_avg/m_easian.jpg)  
+
+![](../images/frl_london_avg/m_wasian.jpg)  
+
+![](../images/frl_london_avg/m_white.jpg)  
+
+
+:::
+
 ## Organisation
 
 * Non-hierarchical structure
 * Still figuring out:
-    - membership models
-    - membership database
-    - website  and communication platforms
+    - membership model/database
+    - website and communication platforms
 * Links
     - Twitter [@ManyFacesTeam](https://twitter.com/ManyFacesTeam)
     - GitHub [ManyFacesTeam](https://github.com/ManyFacesTeam)
+    - OSF <https://osf.io/ngjq7/>
+    - [Zotero](https://www.zotero.org/groups/4588285/manyfaces)
 
 
 ## Working Groups
 
 - Any member can propose a Working Group
-- Image Collation: create a database of face images and related info
+- [Meta-Databases](manyfaces-meta-database.pdf): create a database of face images and related info
 - Stimuli: Develop stimulus protocols
 - Reproducible Stimuli: develop [reproducible methods for creating face stimuli](https://debruine.github.io/reprostim/)
 
